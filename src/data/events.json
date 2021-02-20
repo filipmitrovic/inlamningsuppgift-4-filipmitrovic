@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "eventName": "Lasse-Stefanz",
+        "date": {
+            "day": "21 mars",
+            "time": {
+                "starts": "19.00",
+                "ends": "21.00" 
+            }
+        },
+        "location": "Kjell Härnqvistsalen",
+        "price": "350 sek"
+    },
+    {
+        "id": 2,
+        "eventName": "Pelle trubadur",
+        "date": {
+            "day": "29 mars",
+            "time": {
+                "starts": "22.00",
+                "ends": "00.00" 
+            }
+        },
+        "location": "Pubelipuben",
+        "price": "110 sek"
+    },
+    {
+        "id": 3,
+        "eventName": "Kajsas kör",
+        "date": {
+            "day": "10 april",
+            "time": {
+                "starts": "15.00",
+                "ends": "16.00" 
+            }
+        },
+        "location": "Götaplatsen",
+        "price": "99 sek"
+    },
+    {
+        "id": 4,
+        "eventName": "Klubb untz",
+        "date": {
+            "day": "17 april",
+            "time": {
+                "starts": "22.00",
+                "ends": "du tröttnar" 
+            }
+        },
+        "location": "Din favoritkällare",
+        "price": "150 sek"
+    }
+]
